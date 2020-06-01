@@ -109,6 +109,7 @@
                     "default": true,
                     "description": "Guess the type of parameters and return values"
                 },
+                "autoDocstring."
                 "autoDocstring.quoteStyle": {
                     "type": "string",
                     "default": "\"\"\"",
